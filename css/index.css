@@ -1,0 +1,71 @@
+body {
+    padding: 1em;
+}
+
+.title{
+    font-family: 'Lobster', cursive;
+    font-size: 90px;
+    }
+
+.btn-log{
+    background-color: #ff4d4d;
+    border: none;
+    color: white;
+    padding: 5px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius:5px;
+}
+
+.presentation{
+    position:relative;
+    top:12%;
+}
+.title{
+    position:relative;
+    top:8vh;
+    text-align: center;
+
+}
+.describe{
+    position:relative;
+    top:20vh;
+    text-align: center;
+    font-size: 22px;
+
+}
+
+.btn-inscription{
+    position:relative;
+    top:40vh;
+    
+}
+#btn-in{
+    position: relative;
+    left:45%;
+}
+.pass{
+    font-size: 11px;
+    font-style:italic;
+}
+.button-in{
+    padding: 0;
+    border: none;
+    background: none;
+    color:white;
+}
+
+.ui.modal{
+    position:relative;
+    bottom:20%;
+
+}
+
+.birth{
+    padding:10px;
+}
+    

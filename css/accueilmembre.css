@@ -1,0 +1,61 @@
+body{
+	background-size:cover;
+	z-index:0;
+	min-height:100%;
+	margin: 0;
+	padding: 0;
+	background-repeat: no-repeat;
+	overflow-y: hidden;
+	overflow-x: hidden;
+	background: #e67e22;
+}
+
+.recherche{
+	position:relative;
+	top:40%;
+	left:40%;
+}
+
+.mymenu{
+	height: 94vh;
+	width:14%;
+	background-color:#f1c40f;
+	text-align: center;
+	color:white;
+	font-size:16px;
+	padding: 10px;
+	box-shadow: 5px 10px 8px #888888;
+}
+
+hr{
+	border-top: 1px solid darkgrey;
+	height: 3px;
+	width: 65%;
+}
+
+.liens{
+	position: relative;
+	top: 1%;
+}
+.contenu{
+
+
+	top:10%;
+	left:3%;
+	height:60vh;
+	width: 80%;
+	margin-top: 1%;
+	margin-left:1%;
+	overflow: scroll;
+	overflow-x: hidden;
+	background: white;
+	position: relative;
+	margin:  0 auto;
+
+}
+.box{
+
+	display: inline-block;
+	float: left;
+	z-index:2;
+}
